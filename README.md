@@ -20,3 +20,7 @@ Retrieves accessions created over the past month for review/reporting by one of 
 
 **resource_type_update.py**
 This is my attempt to assign resource types to imported resources by checking for terms in the resource title.
+
+## License
+
+See the [LICENSE](LICENSE.txt) file for license rights and limitations.
