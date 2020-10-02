@@ -10,6 +10,9 @@ with a IIIF thumbnail image that links to the handle when clicked.
 Takes a csv of barcodes, box numbers, accession or resource uris, and location uris, and creates top containers, 
 associating them to the accession/resource and location in csv.
 
+**generate_sitemap.py**
+Generates an [XML Sitemap](https://www.sitemaps.org/).
+
 **get_linked_agents.py**
 Retrieves records that are linked to a specific agent. Then, retrieves uris and names of ALL the agents linked 
 to the returned resources. I intend to use this locally for quality control, as we associate new resources/accessions with 
